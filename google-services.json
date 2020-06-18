@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618947086553",
+    "firebase_url": "https://mindmap-08.firebaseio.com",
+    "project_id": "mindmap-08",
+    "storage_bucket": "mindmap-08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618947086553:android:5192d48120df922baad6c8",
+        "android_client_info": {
+          "package_name": "com.example.dangnhap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618947086553-1kqih3i38ahr4hngkq1d6agcijciscn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbzS5RNhuygbVU5tbk9OjB2liU-HiEmlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618947086553-1kqih3i38ahr4hngkq1d6agcijciscn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
